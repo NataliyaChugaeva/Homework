@@ -1,0 +1,15 @@
+C:\Users\Джон\Desktop\ДЗ\Task_13\obj\Debug\net6.0\Task_13.csproj.AssemblyReference.cache
+C:\Users\Джон\Desktop\ДЗ\Task_13\obj\Debug\net6.0\Task_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Джон\Desktop\ДЗ\Task_13\obj\Debug\net6.0\Task_13.AssemblyInfoInputs.cache
+C:\Users\Джон\Desktop\ДЗ\Task_13\obj\Debug\net6.0\Task_13.AssemblyInfo.cs
+C:\Users\Джон\Desktop\ДЗ\Task_13\obj\Debug\net6.0\Task_13.csproj.CoreCompileInputs.cache
+C:\Users\Джон\Desktop\ДЗ\Task_13\bin\Debug\net6.0\Task_13.exe
+C:\Users\Джон\Desktop\ДЗ\Task_13\bin\Debug\net6.0\Task_13.deps.json
+C:\Users\Джон\Desktop\ДЗ\Task_13\bin\Debug\net6.0\Task_13.runtimeconfig.json
+C:\Users\Джон\Desktop\ДЗ\Task_13\bin\Debug\net6.0\Task_13.dll
+C:\Users\Джон\Desktop\ДЗ\Task_13\bin\Debug\net6.0\Task_13.pdb
+C:\Users\Джон\Desktop\ДЗ\Task_13\obj\Debug\net6.0\Task_13.dll
+C:\Users\Джон\Desktop\ДЗ\Task_13\obj\Debug\net6.0\refint\Task_13.dll
+C:\Users\Джон\Desktop\ДЗ\Task_13\obj\Debug\net6.0\Task_13.pdb
+C:\Users\Джон\Desktop\ДЗ\Task_13\obj\Debug\net6.0\Task_13.genruntimeconfig.cache
+C:\Users\Джон\Desktop\ДЗ\Task_13\obj\Debug\net6.0\ref\Task_13.dll
