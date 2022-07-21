@@ -28,7 +28,7 @@ void PrintMatrix(int[,] arr)
          for (int j = 0; j < arr.GetLength(1); j++)
          {
            if (j == 0) Console.Write("|");
-           if (j < arr.GetLength(1) - 1) Console.Write($"{arr[i,j], 3} | ");
+           if (j < arr.GetLength(1) - 1) Console.Write($"{arr[i,j], 4} | ");
            else Console.Write($"{arr[i,j], 3} | ");
          }
          Console.WriteLine();
@@ -46,7 +46,8 @@ void PrintMatrix(int[,] arr)
  Console.ReadLine();}
  
 
-int[,] arrayResult = CreateMatrixRndInt(3, 4, 1, 10);
+int[,] arrayResult = CreateMatrixRndInt(3, 4, 1, 100);
 PrintMatrix(arrayResult);
+
 
 

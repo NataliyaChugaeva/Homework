@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Джон\\Desktop\\ДЗ\\Task_52\\Task_52.csproj": {}
+    "C:\\Users\\Джон\\Desktop\\ДЗ\\Task_52_\\Task_52_.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Джон\\Desktop\\ДЗ\\Task_52\\Task_52.csproj": {
+    "C:\\Users\\Джон\\Desktop\\ДЗ\\Task_52_\\Task_52_.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Джон\\Desktop\\ДЗ\\Task_52\\Task_52.csproj",
-        "projectName": "Task_52",
-        "projectPath": "C:\\Users\\Джон\\Desktop\\ДЗ\\Task_52\\Task_52.csproj",
+        "projectUniqueName": "C:\\Users\\Джон\\Desktop\\ДЗ\\Task_52_\\Task_52_.csproj",
+        "projectName": "Task_52_",
+        "projectPath": "C:\\Users\\Джон\\Desktop\\ДЗ\\Task_52_\\Task_52_.csproj",
         "packagesPath": "C:\\Users\\Джон\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Джон\\Desktop\\ДЗ\\Task_52\\obj\\",
+        "outputPath": "C:\\Users\\Джон\\Desktop\\ДЗ\\Task_52_\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Джон\\AppData\\Roaming\\NuGet\\NuGet.Config"

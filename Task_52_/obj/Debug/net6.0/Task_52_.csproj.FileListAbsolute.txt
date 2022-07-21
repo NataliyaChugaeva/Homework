@@ -1,0 +1,15 @@
+C:\Users\Джон\Desktop\ДЗ\Task_52_\bin\Debug\net6.0\Task_52_.exe
+C:\Users\Джон\Desktop\ДЗ\Task_52_\bin\Debug\net6.0\Task_52_.deps.json
+C:\Users\Джон\Desktop\ДЗ\Task_52_\bin\Debug\net6.0\Task_52_.runtimeconfig.json
+C:\Users\Джон\Desktop\ДЗ\Task_52_\bin\Debug\net6.0\Task_52_.dll
+C:\Users\Джон\Desktop\ДЗ\Task_52_\bin\Debug\net6.0\Task_52_.pdb
+C:\Users\Джон\Desktop\ДЗ\Task_52_\obj\Debug\net6.0\Task_52_.csproj.AssemblyReference.cache
+C:\Users\Джон\Desktop\ДЗ\Task_52_\obj\Debug\net6.0\Task_52_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Джон\Desktop\ДЗ\Task_52_\obj\Debug\net6.0\Task_52_.AssemblyInfoInputs.cache
+C:\Users\Джон\Desktop\ДЗ\Task_52_\obj\Debug\net6.0\Task_52_.AssemblyInfo.cs
+C:\Users\Джон\Desktop\ДЗ\Task_52_\obj\Debug\net6.0\Task_52_.csproj.CoreCompileInputs.cache
+C:\Users\Джон\Desktop\ДЗ\Task_52_\obj\Debug\net6.0\Task_52_.dll
+C:\Users\Джон\Desktop\ДЗ\Task_52_\obj\Debug\net6.0\refint\Task_52_.dll
+C:\Users\Джон\Desktop\ДЗ\Task_52_\obj\Debug\net6.0\Task_52_.pdb
+C:\Users\Джон\Desktop\ДЗ\Task_52_\obj\Debug\net6.0\Task_52_.genruntimeconfig.cache
+C:\Users\Джон\Desktop\ДЗ\Task_52_\obj\Debug\net6.0\ref\Task_52_.dll
